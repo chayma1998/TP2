@@ -26,14 +26,12 @@ Nj,n(x) = prod(x-xk)
 et (zj) les coefficients qui sont solution du système triangulaire.
 
 # Conclusion
-Interpolation polynomiale:
+1) Interpolation polynomiale:
   *évaluer la fonction en un point : Polynôme de Lagrange 
-  *compiler la fonction : Polynôme de Newton 
--------  
-Phénomène de Runge:
-  *comparer les differents méthodes de calcul
--------  
-Interpolation polynomiale par morceau : 
+  *compiler la fonction : Polynôme de Newton   
+2) Phénomène de Runge:
+  *comparer les differents méthodes de calcul 
+3) Interpolation polynomiale par morceau : 
   *spline cubique d’interpolation
   *spline cubique d’approximation 
  
