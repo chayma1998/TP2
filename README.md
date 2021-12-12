@@ -27,13 +27,13 @@ et (zj) les coefficients qui sont solution du système triangulaire.
 
 # Conclusion
 *Interpolation polynomiale
-–évaluer la fonction en un point : Polynôme de Lagrange -> méthode de Neville
-–compiler la fonction : Polynôme de Newton 
+ –évaluer la fonction en un point : Polynôme de Lagrange -> méthode de Neville
+ –compiler la fonction : Polynôme de Newton 
 * Interpolation polynomiale par morceau : splines
-* –spline cubique d’interpolation
-* –spline cubique d’approximation (on régularise)
-* –b spline
-* –spline généralisée : splines gausiènnes (multidimensionelle)
+ –spline cubique d’interpolation
+ –spline cubique d’approximation (on régularise)
+ –b spline
+ –spline généralisée : splines gausiènnes (multidimensionelle)
 
 
 
