@@ -5,7 +5,7 @@ Le but de ce TP est :
 * Découvrir la méthode de calcul du polynôme d'interpolation de Lagrange.
 * Observer le phénomène de Runge.
 * Découvrir la méthode de calcul du polynôme de Newton.
-* 
+
 # Polynôme d'interpolation de Lagrange
 Le polynôme d’interpolation de Lagrange est l’unique polynôme de degré au plus n passant par une famille de n + 1 points (xi,yi) de R2, d’abscisses distinctes. 
 L'interpolation de Lagrange consiste à chercher un polynôme qui passe par un ensemble des points (xi, yi) . Si le valeurs yi sont obtenues en évaluant une fonction f aux points xi , donc yi = f(xi) , on parle d’un polynôme de Lagrange associé à la fonction f aux points (xi).
@@ -25,6 +25,15 @@ avec Nj,n la base de polynôme de Newton donnée par:
 Nj,n(x) = prod(x-xk)
 et (zj) les coefficients qui sont solution du système triangulaire.
 
+# Conclusion
+*Interpolation polynomiale
+–évaluer la fonction en un point : Polynôme de Lagrange -> méthode de Neville
+–compiler la fonction : Polynôme de Newton 
+* Interpolation polynomiale par morceau : splines
+* –spline cubique d’interpolation
+* –spline cubique d’approximation (on régularise)
+* –b spline
+* –spline généralisée : splines gausiènnes (multidimensionelle)
 
 
 
