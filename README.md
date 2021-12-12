@@ -33,7 +33,7 @@ et (zj) les coefficients qui sont solution du système triangulaire.
  –spline cubique d’interpolation
  –spline cubique d’approximation (on régularise)
  –b spline
- –spline généralisée : splines gausiènnes (multidimensionelle)
+ –spline généralisée : splines gausiènnes
 
 
 
